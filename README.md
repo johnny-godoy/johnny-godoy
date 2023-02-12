@@ -5,18 +5,22 @@ Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematica
 I'm currently in Grenoble, doing a research internship at [Inria](https://www.inria.fr/fr).
 
 ## 📕 Interests
+### Academic
 I'm not really an expert on these fields, however, I find them fascinating and enjoy reading on them
 
-* Ethical Data Science and Artificial Intelligence
 * Interpretable and Explainable Machine Learning
 * Stochastic methods for Optimization
 * Algorithmic Art and Music generation
 * Video Game Development
 * Software Engineering
 * Numerical Analysis
-* Child Development and Pedagogy
 
-Other than academic interests, I enjoy playing videogames, specially online with friends.
+### Other
+* Ethical Data Science and Artificial Intelligence
+* Child Development and Pedagogy
+* Online Privacy and Security
+* Sustainability
+* Playing videogames
 
 ## 🛠️ Tech Stack
 

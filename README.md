@@ -56,6 +56,8 @@ Other than academic interests, I enjoy playing videogames, specially online with
 
 
 <!--
+TODO: Add contact (linkedin, kaggle) and my CV (I want to do a rewrite before sharing)
+
 **johnny-godoy/johnny-godoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

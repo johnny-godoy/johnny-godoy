@@ -4,6 +4,16 @@ Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematica
 
 I'm currently in Grenoble, doing a research internship at [Inria](https://www.inria.fr/fr).
 
+## 📈 Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=johnny-godoy&show_icons=true)
+
+<!--
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-godoy&theme=blue-green)
+
+<img src="https://komarev.com/ghpvc/?username=johnny-godoy"/>
+-->
+
 ## 📕 Interests
 ### Academic
 I'm not really an expert on these fields, however, I find them fascinating and enjoy reading on them
@@ -57,7 +67,6 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 ### 🥅 Other
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 
 <!--
 TODO: Add contact (linkedin, kaggle) and my CV (I want to do a rewrite before sharing)

@@ -4,17 +4,22 @@ Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematica
 
 I'm currently in Grenoble, doing a research internship at [Inria](https://www.inria.fr/fr).
 
-## 📈 Stats
+<p align="center">
+    <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:jdgod98@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="cv/cv_english.pdf">
+        <img src="https://img.shields.io/badge/CV-Blue?style=for-the-badge&logoColor=white"/>
+    </a>
+    <a href="cv/cv_español.pdf">
+        <img src="https://img.shields.io/badge/CV (Español)-a?style=for-the-badge&logoColor=white"/>
+    </a>
+</p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=johnny-godoy&show_icons=true)
-
-<!--
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-godoy&theme=blue-green)
-
-<img src="https://komarev.com/ghpvc/?username=johnny-godoy"/>
--->
-
-## 📕 Interests
+## 💖 Interests
 ### Academic
 I'm not really an expert on these fields, however, I find them fascinating and enjoy reading on them
 
@@ -33,7 +38,7 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 * Playing videogames
 * Cows
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### 💾 Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -46,7 +51,7 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### 📋 Languages
+### 👨‍💻 Languages
 **Expert:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
 **Intermediate:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)\
 **Basic:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,7 +59,7 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### 🖥️ Data Science and Machine Learning Frameworks
+### 🤖 Data Science and Machine Learning Frameworks
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -65,20 +70,3 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 ### ❔ Other
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<!--
-TODO: Add contact (linkedin, kaggle) and my CV (I want to do a rewrite before sharing)
-
-**johnny-godoy/johnny-godoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

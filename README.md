@@ -31,6 +31,7 @@ I'm not really an expert on these fields, however, I find them fascinating and e
 * Online Privacy and Security
 * Sustainability
 * Playing videogames
+* Cows
 
 ## 🛠️ Tech Stack
 

@@ -21,7 +21,7 @@ I'm currently in Grenoble, doing a research internship at [Inria](https://www.in
 
 ## 💖 Interests
 ### Academic
-I'm not really an expert on these fields, however, I find them fascinating and enjoy reading on them
+I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading on them
 
 * Interpretable and Explainable Machine Learning
 * Stochastic methods for Optimization

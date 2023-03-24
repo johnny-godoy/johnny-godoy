@@ -24,7 +24,6 @@ I'm currently in Grenoble, France; doing a research internship at [Inria](https:
 I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading about them
 
 * Interpretable and Explainable Machine Learning
-
 * Stochastic methods for Optimization
 * Algorithmic Art and Music generation
 * Video Game Development

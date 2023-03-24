@@ -24,17 +24,20 @@ I'm currently in Grenoble, France; doing a research internship at [Inria](https:
 I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading about them
 
 * Interpretable and Explainable Machine Learning
+
 * Stochastic methods for Optimization
 * Algorithmic Art and Music generation
 * Video Game Development
 * Software Engineering
 * Numerical Analysis
 
-### Other
+### Causes
 * Ethical Data Science and Artificial Intelligence (co-founder of [AEDIA](https://github.com/aedia-ethics))
 * Child Development and Pedagogy
 * Online Privacy and Security
 * Sustainability
+
+### Fun
 * Playing videogames
 * Cows 🐄
 

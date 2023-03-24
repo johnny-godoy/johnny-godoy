@@ -11,10 +11,10 @@ I'm currently in Grenoble, France; doing a research internship at [Inria](https:
     <a href="mailto:jdgod98@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="cv/cv_english.pdf">
+    <a href="https://johnny-godoy.github.io/johnny-godoy/cv/cv_english.pdf">
         <img src="https://img.shields.io/badge/CV-Blue?style=for-the-badge&logoColor=white"/>
     </a>
-    <a href="cv/cv_español.pdf">
+    <a href="https://johnny-godoy.github.io/johnny-godoy/cv/cv_espa%C3%B1ol.pdf">
         <img src="https://img.shields.io/badge/CV (Español)-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>

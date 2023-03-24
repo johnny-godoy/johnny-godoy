@@ -2,7 +2,7 @@
 
 Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematical Engineering and an M.Sc. in Data Science at [University of Chile](https://www.uchile.cl/).
 
-I'm currently in Grenoble, doing a research internship at [Inria](https://www.inria.fr/fr).
+I'm currently in Grenoble, France; doing a research internship at [Inria](https://www.inria.fr/fr).
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
@@ -21,7 +21,7 @@ I'm currently in Grenoble, doing a research internship at [Inria](https://www.in
 
 ## 💖 Interests
 ### Academic
-I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading on them
+I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading about them
 
 * Interpretable and Explainable Machine Learning
 * Stochastic methods for Optimization

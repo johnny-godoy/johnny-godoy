@@ -31,7 +31,7 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 * Numerical Analysis
 
 ### Causes
-* Ethical Data Science and Artificial Intelligence (co-founder of [AEDIA](https://github.com/aedia-ethics))
+* Ethical Data Science and Artificial Intelligence (founding member of [AEDIA](https://github.com/aedia-ethics))
 * Child Development and Pedagogy
 * Online Privacy and Security
 * Sustainability

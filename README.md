@@ -2,8 +2,6 @@
 
 Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematical Engineering and an M.Sc. in Data Science at [University of Chile](https://www.uchile.cl/).
 
-I'm currently in Grenoble, France; doing a research internship at [Inria](https://www.inria.fr/fr).
-
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

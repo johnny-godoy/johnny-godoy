@@ -1,6 +1,6 @@
 ## 👋 Presentation 
 
-Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematical Engineering and an M.Sc. in Data Science at [University of Chile](https://www.uchile.cl/).
+Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematical Engineering and an M.Sc. in Data Science at [University of Chile](https://www.uchile.cl/). I am a co-founder and current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics) at UChile.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
@@ -29,7 +29,7 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 * Numerical Analysis
 
 ### Causes
-* Ethical Data Science and Artificial Intelligence (founding member of [AEDIA](https://github.com/aedia-ethics))
+* Ethical Data Science and Artificial Intelligence 
 * Child Development and Pedagogy
 * Online Privacy and Security
 * Sustainability

@@ -18,9 +18,9 @@ Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematica
 </p>
 
 ## 💖 Interests
-### Academic
 I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading about them
 
+### Academic
 * Interpretable and Explainable Machine Learning
 * Stochastic methods for Optimization
 * Algorithmic Art and Music generation
@@ -36,6 +36,7 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 
 ### Fun
 * Playing videogames
+* Freestyle wrestling
 * Cows 🐄
 
 ## 🛠 Tech Stack

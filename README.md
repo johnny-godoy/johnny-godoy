@@ -1,6 +1,6 @@
 ## 👋 Presentation 
 
-Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematical Engineering and an M.Sc. in Data Science at [University of Chile](https://www.uchile.cl/). I am a co-founder and current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics) at UChile.
+Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Data Science from [University of Chile](https://www.uchile.cl/), currently working as an AI researcher at [Replai](https://replai.cl/). I'm a co-founder and the current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics). 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
@@ -18,12 +18,11 @@ Hello! My name is Johnny Godoy, and I'm finishing my degrees in both Mathematica
 </p>
 
 ## 💖 Interests
-I'm not really an expert on these fields (yet!), however, I find them fascinating and enjoy reading about them
+I may not be an expert on all of these fields (yet!), however, I find them fascinating and enjoy reading about them:
 
 ### Academic
 * Interpretable and Explainable Machine Learning
 * Stochastic methods for Optimization
-* Algorithmic Art and Music generation
 * Video Game Development
 * Software Engineering
 * Numerical Analysis
@@ -36,7 +35,7 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 
 ### Fun
 * Playing videogames
-* Freestyle wrestling
+* Freestyle wrestling 🤼
 * Cows 🐄
 
 ## 🛠 Tech Stack
@@ -44,13 +43,6 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 ### 💾 Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 💻 IDEs/Editors
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ### 👨‍💻 Languages
 **Expert:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
@@ -65,8 +57,11 @@ I'm not really an expert on these fields (yet!), however, I find them fascinatin
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+
 
 ### ❔ Other
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)

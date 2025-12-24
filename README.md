@@ -1,6 +1,6 @@
 ## 👋 Presentation 
 
-Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Data Science from [University of Chile](https://www.uchile.cl/), currently working as an AI researcher at [Replai](https://replai.cl/). I'm a co-founder and the current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics). 
+Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Data Science from [University of Chile](https://www.uchile.cl/), currently working as a Senior AI engineer at [Niuro](https://niuro.io). I'm a co-founder and the current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics). 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
@@ -18,7 +18,6 @@ Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Dat
 </p>
 
 ## 💖 Interests
-I may not be an expert on all of these fields (yet!), however, I find them fascinating and enjoy reading about them:
 
 ### Academic
 * Interpretable and Explainable Machine Learning
@@ -34,9 +33,11 @@ I may not be an expert on all of these fields (yet!), however, I find them fasci
 * Sustainability
 
 ### Fun
-* Playing videogames
 * Freestyle wrestling 🤼
 * Cows 🐄
+
+### Motivation
+* My wife 💍
 
 ## 🛠 Tech Stack
 
@@ -47,9 +48,10 @@ I may not be an expert on all of these fields (yet!), however, I find them fasci
 ### 👨‍💻 Languages
 **Expert:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
 **Intermediate:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)\
-**Basic:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Basic:** 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤖 Data Science and Machine Learning Frameworks

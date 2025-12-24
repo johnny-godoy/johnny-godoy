@@ -1,6 +1,6 @@
 ## 👋 Presentation 
 
-Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Data Science from [University of Chile](https://www.uchile.cl/), currently working as a Senior AI engineer at [Niuro](https://niuro.io). I'm a co-founder and the current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics). 
+Hello! My name is Johnny Godoy. I'm a Mathematical Engineer with an M.Sc. in Data Science from [University of Chile](https://www.uchile.cl/), currently working as a Senior AI Engineer at [Niuro](https://niuro.io). I'm a co-founder and the current content coordinator of the Association for Ethics in Data and Artificial Intelligence [AEDIA](https://github.com/aedia-ethics). 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/johnny-godoy-4ba146200">
